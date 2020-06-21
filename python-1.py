@@ -19,6 +19,4 @@ print ("We are ok with indentations")
 print ("We are ok with indentations")
 print ("We are ok with indentations")
 print ("We are ok with indentations")
-print ("We are ok with indentations")
-print ("We are ok with indentations")
 
